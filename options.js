@@ -1,1 +1,2 @@
-// some js code using stuff from http://julip.co/2010/01/how-to-build-a-chrome-extension-part-2-options-and-localstorage/
+localStorage.domains=window.getElementById("domains").value.split("\r\n");
+// make the above happen on clicking a SAVE button, maybe later by closing the options page
