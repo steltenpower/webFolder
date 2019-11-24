@@ -4,4 +4,8 @@ If possible make a difference between files manually opened and those by other f
 
 Change every occurence of "something.nl" in the code to domain(s) you want to use it on.
 
-I'll add a usecase here. Probably something about a low-tech data-entry person glued to their network drive, cooperating with a web-based dataviz person
+
+#usecase
+
+Say someone saves stuff on a network drive from within Excel, and that is sort of the top of what this person is capable of doing technically (either by skill, time, interest, or what sysadmin allow).
+Now you as a web-dataviz person did interest them into some of the examples you've shown
