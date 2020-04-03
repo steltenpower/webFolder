@@ -15,4 +15,4 @@ Maybe this can also be used for a tiny bit of forcing them to cleaner organize t
 
 Can Office365 serve files, or only 'enhanced' by wrapping them in some webbased viewer?
 
-When with this way succesful dataviz are created, maybe they should be copied to E2D3, PowerBI, or something else.
+When with this way succesful dataviz are created of the D3js type, they can easily be used in PowerBI and Excel (through E2D3)
