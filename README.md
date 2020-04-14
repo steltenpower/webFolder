@@ -1,4 +1,4 @@
-# openWebFilesInsteadOfLocalSave
+# webber, previously 'openWebFilesInsteadOfLocalSave' (companion of [dataCentricFileExplorer](https://github.com/steltenpower/dataCentricFileExplorer))
 Browser extension: ignore HTTPheader content-disposition:attachment; for the combinations of MIMEtype&URL you set.
 If possible make a difference between files manually opened and those by other files (maybe based on whether a window object is in context)
 
