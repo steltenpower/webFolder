@@ -11,8 +11,10 @@ With a dataviz URL that has the dataURL as a parameter, multiple data files can 
 Many client-side web visualisation libraries need .csv files, not Excel. "Save as .csv" is no rocket science however.
 The dataviz (automatically, as it's client-side) can only load the data if the person loading it, has viewing rights to the data used.
 Of course everybody needs to install the browser extension this is about, but people can be pointed there by the then-not-working-dataviz.
-Maybe this can also be used for a tiny bit of forcing them to cleaner organize their spreadsheets.
+The spreadsheet structure needed for these datavisualisations, brings more advantages at the same time.
 
 Can Office365 serve files, or only 'enhanced' by wrapping them in some webbased viewer?
 
 When with this way succesful dataviz are created of the D3js type, they can easily be used in PowerBI and Excel (through E2D3)
+
+extra: it could also direct people to how to get to these files over for example webDAV; how to install/configure and what path for a file (on hover)
