@@ -18,3 +18,5 @@ Can Office365 serve files, or only 'enhanced' by wrapping them in some webbased 
 When with this way succesful dataviz are created of the D3js type, they can easily be used in PowerBI and Excel (through E2D3)
 
 extra: it could also direct people to how to get to these files over for example webDAV; how to install/configure and what path for a file (on hover)
+
+Wrap it with web drives
