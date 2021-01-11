@@ -21,3 +21,5 @@ Have the extension to install on the webdrive for everybody
 Can Office365 serve files, or only 'enhanced' by wrapping them in some webbased viewer?
 
 (possible companion of [dataCentricFileExploring](https://github.com/steltenpower/dataCentricFileExploring))
+
+Also interesting: https://mobile.twitter.com/anildash/status/1345594000162566144
