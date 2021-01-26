@@ -22,4 +22,4 @@ Can Office365 serve files, or only 'enhanced' by wrapping them in some webbased 
 
 (possible companion of [dataCentricFileExploring](https://github.com/steltenpower/dataCentricFileExploring))
 
-Also interesting: https://mobile.twitter.com/anildash/status/1345594000162566144
+Also see: [tabFS](https://mobile.twitter.com/anildash/status/1345594000162566144): "apply all the existing tools on your computer that already know how to deal with files -- terminal commands, scripting languages, point-and-click explorers, etc -- and use them to control and communicate with your browser"
