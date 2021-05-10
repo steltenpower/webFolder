@@ -1,7 +1,7 @@
 # webber
 Browser extension: ignore HTTPheader content-disposition:attachment; for the combinations of MIMEtype&URL you set.
 If possible make a difference between files manually opened and those by other files (maybe based on whether a window object is in context)
-
+<img src="https://repository-images.githubusercontent.com/55097020/c7cb4300-724c-11eb-9fe0-ac3ba7bb375f">
 # usecase
 
 Say someone saves stuff on a network drive from within Excel, and that is sort of the top of what this person is capable of doing technically (either by skill, time, interest, or what sysadmin allows).
