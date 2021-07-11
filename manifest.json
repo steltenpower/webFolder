@@ -1,33 +1,15 @@
 {
     "manifest_version": 2,
-    "name": "open web files in browser",
-    "version": "0.20162502.1705",
-    "default_locale": "en",
-    "description": "Where web applications force to save files locally, it is ignored for certain file types per domain",
-    "browser_action": {
-        "default_icon": {
-            "19": "browserbar_19x19.png",
-            "38": "icon38.jpg"
-        },
-        "default_title": "link verder",
-        "default_popup": "popup.html"
-    },
-    "icons": { "16": "contextMenu_16x16.png",
-        "48": "extensionList_48x48.jpg",
-        "128": "details_128x128.png"
-    },
-    "author":"steltenpower",
-    "homepage_url": "http://path/to/homepage",
+    "name": "Something.nl website fix",
+    "version": "1",
+    "description": "Something - open particular file types in browser instead of displaying a 'save as' dialog",
     "background": {
         "scripts": ["background.js"]
     },
     "permissions": [
         "webRequest",
         "webRequestBlocking",
-        "https://*.something.nl/*"
-    ],
-    "options_ui": {
-        "page": "options.html",
-        "chrome_style": true
-    }
+        "*://something.nl/*",
+        "*://*.something.nl/*"
+    ]
 }
