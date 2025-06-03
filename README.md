@@ -2,6 +2,8 @@
 
 (will add what I have working on NextCloud soon. Current code here works/worked) on a more plain webinterface for a network drive)
 
+Also nice to know: https://github.com/jupyterlite/jupyterlite/discussions/379
+
 Browser extension: ignore HTTPheader content-disposition:attachment; for the combinations of MIMEtype&URL you set.
 If possible make a difference between files manually opened and those by other files (maybe based on whether a window object is in context)
 <img src="https://repository-images.githubusercontent.com/55097020/c7cb4300-724c-11eb-9fe0-ac3ba7bb375f">
