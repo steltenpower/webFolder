@@ -34,3 +34,6 @@ Also see:
 - [fix Outlook safe-links](https://chrome.google.com/webstore/detail/un-safelink-outlook/pgchfppjhohfigdgfnglmbbeiingokmi)
 
 [eesel.app](https://eesel.app)
+
+https://help.nextcloud.com/t/download-openinnextcloud-and-openinbrowser-links-per-file-a-good-idea/226341/5
+
