@@ -37,3 +37,4 @@ Also see:
 
 https://help.nextcloud.com/t/download-openinnextcloud-and-openinbrowser-links-per-file-a-good-idea/226341/5
 
+https://github.com/jupyterlite/jupyterlite/discussions/379#discussioncomment-13343346
